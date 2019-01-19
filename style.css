@@ -3,5 +3,11 @@
     align: center;
     margin: auto;
     width: 300px;
+    border-radius: 5%;
     background-color: lightblue;
+}
+#header {
+    border-radius: 5%;
+    height: 30px;
+    background-color: green;
 }
